@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 adobo
 corned beef 
+=======
+star trek
+>>>>>>> movies
